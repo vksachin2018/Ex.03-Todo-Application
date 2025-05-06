@@ -204,7 +204,8 @@ function addTodo() {
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/8a20ac1f-0e97-4dd1-81e2-77a79b87726c)
+![Screenshot 2025-05-06 150712](https://github.com/user-attachments/assets/502c09e0-d606-4fd6-9c40-91de27804d38)
+
 
 
 ## RESULT
